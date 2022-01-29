@@ -1,0 +1,3 @@
+{
+    "pandocFormat.command": "pandoc --standalone --atx-headers --wrap=auto --columns=80 -f markdown-auto_identifiers -t markdown-simple_tables-multiline_tables-grid_tables-auto_identifiers-fenced_code_attributes --reference-links"
+}
