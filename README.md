@@ -29,3 +29,10 @@ githut练习<br>
 # test
 a := ss
 ```
+
+SVG引用
+--------
+![SVG引用](./markmap.svg)
+
+
+<img src="./markmap.svg" width=1000 height=800 />
